@@ -1,18 +1,36 @@
 - Email checkin early next week
   - Things I’ve done
-  - Todo update
+  - Update on todos
   - Update on reviving— re-assess approach?
+  - Respond to Sayan’s ideas
 
 
 ==============
 Todos:
+- Look into the code
+  - where does Exploratory mode fits
+  - run it using Eclipse/Android Studio (see if it builds)
+    - Android Studio is the official Android SDK platform so Eclipse not officially supported anymore
+    - Device Bridge: may need a device for app to run?
+    - Which Android API was originally used? latest is 25, maybe was 23
+  - Running code with emulator as device (not attached via usb)
+
+- Design of exploratory mode (fit into the current design)
+
+- How to launch an emulator from java app
+  - Launch emulator
+  - Load current phone into emulator (may be easier with a third-party emulator?)
+    - Mimicking user’s homescreen app setup
+    - Installing new apps
+    - Loading info (eg: contacts, alarms, etc)
+    How to capture all this data and load into Emulator?
+
 - Setup GitHub
+
 - Check on Android phone
-- Display?
-- Revive design for now, see in a week
-- Think over Sayan’s email
+- Display issues (do we need anything specific)
 
 
 ==============
 Other:
-- Meetings with Japan time
+- Meetings with Japan time next next week
